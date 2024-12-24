@@ -11,3 +11,7 @@ Don't use the Xcode developer tools `nasm` if you have them installed, they won'
 
 On some systems qemu is split into multiple binaries. You may want
 to call `qemu-system-x86_64 binfile`
+
+Ubuntu Linux installation:
+- `sudo apt-get install nasm`
+- `sudo apt-get install qemu-system`
